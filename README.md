@@ -12,4 +12,4 @@ A simple example which demonstrates a way to use the History API to rewrite the 
 
 ## Demo
 
-Demo can be found here: [History API Demo]()
+Demo can be found here: [History API Demo](https://daniel-schroeder-dev.github.io/history-api-demo)
